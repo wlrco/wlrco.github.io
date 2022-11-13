@@ -466,7 +466,7 @@ margin: 15px auto;
   transition-duration: 0s;
 }
 /* End: Recommended Isotope styles */
-/* disable CSS transitions for containers with infinite scrolling*/
+/* disable CSS transitions for containers with infinite iing*/
 .isotope.infinite-scrolling {
   -webkit-transition: none;
   -moz-transition: none;
