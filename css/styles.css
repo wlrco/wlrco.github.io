@@ -6,6 +6,7 @@ Author URL: http://webthemez.com
 /*************************
 *******Typography******
 **************************/
+
 body {
   padding-top: 100px;
   background: #fff;
@@ -60,7 +61,7 @@ hr {
   padding-bottom: 20px;
   margin: 0 0 20px;  
 
-  border-bottom: 2px solid #19BD9B;
+  border-bottom: 2px solid #1989bd;
 display: inline-block;
 }
 .section-header .section-title:before {
@@ -78,7 +79,7 @@ display: inline-block;
   border-radius: 0;
 }
 .btn.btn-primary {
-  background: #19BD9B;
+  background: #1989bd;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
@@ -197,7 +198,7 @@ background: #222;
   #main-nav.navbar-default .navbar-nav > li.open > a,
   #main-nav.navbar-default .navbar-nav > li:hover > a { 
 	
-    color: #19BD9B;
+    color: #1989bd;
   
 }
   #main-nav.navbar-default .dropdown-menu {
@@ -329,7 +330,7 @@ background: #222;
   line-height: 64px;
   text-align: center;
   width: 106px; 
-  color: #19BD9B;
+  color: #1989bd;
   /* background:#fff; */
   /* box-shadow: inset 0 0 0 1px #d7d7d7; */
   /* -webkit-box-shadow: inset 0 0 0 1px #d7d7d7; */
@@ -362,12 +363,12 @@ color: #ECECEC;
   display: block;
   padding: 7px 15px;
   margin:0px 2px;
-  color: #19BD9B;
+  color: #1989bd;
   position: relative;
 }
 #portfolio .portfolio-filter > li a:hover,
 #portfolio .portfolio-filter > li a.active {
-  background: #19BD9B;
+  background: #1989bd;
   color: #FFFFFF; 
 } 
 #portfolio .portfolio-items {
@@ -488,7 +489,7 @@ transition: all .2s ease-in-out;
 margin-bottom: 15px;
 }
 #testimonial {
-  background: #19BD9B;
+  background: #1989bd;
   background-size: cover;
   padding: 100px 0;
   color: #fff;
@@ -516,7 +517,7 @@ margin: 0 8px;
 
 .download-now
 {
-	background: #19BD9B url('../images/ipad.png') no-repeat right 65px;
+	background: #1989bd url('../images/ipad.png') no-repeat right 65px;
 	background-size: 30%;
 	padding: 100px 0 0; 
 }
@@ -571,7 +572,7 @@ color: #fff !important;
   margin: 0;
 }
 #our-team .team-member .team-info { 
-  color: #19BD9B;
+  color: #1989bd;
   padding: 0 0 15px;
 } 
 #our-team .team-member:hover .social-icons > li > a {
@@ -689,7 +690,7 @@ border-right: 22px solid transparent;
 }
 #business-stats {
   padding: 100px 0 70px;
-  background: #19BD9B;
+  background: #1989bd;
   background-size: cover;
   color: #fff;
 }
@@ -734,7 +735,7 @@ border-right: 22px solid transparent;
   background: #FFFFFF; 
   margin: -15px -15px 10px;
   padding: 15px 15px 30px;
-  border-bottom: 2px solid #19BD9B;
+  border-bottom: 2px solid #1989bd;
 }
 #pricing ul.pricing li.plan-header .price-duration {
   position: relative;
@@ -773,8 +774,8 @@ border-right: 22px solid transparent;
 color: #FFFFFF;
 }
 #pricing ul.pricing.featured li.plan-header {
-  background: #19BD9B;
-  border-bottom: 2px solid #19BD9B;
+  background: #1989bd;
+  border-bottom: 2px solid #1989bd;
 }
 #pricing ul.pricing.featured li.plan-header .plan-name {
   color: #FFFFFF;
